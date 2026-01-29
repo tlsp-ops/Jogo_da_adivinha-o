@@ -11,7 +11,7 @@
 O **JOGO DA ADIVINHAÇÃO (NÚMERO SECRETO)** é um jogo multiplayer desenvolvido em Java utilizando sockets TCP, com o objetivo de proporcionar diversão e interação entre os jogadores.
 
 O funcionamento do jogo ocorre da seguinte forma:
-- O servidor escolhe um número secreto.
+- O servidor escolhe um número secreto de 1 a 100.
 - Três jogadores entram na partida.
 - O jogo acontece em rodadas, onde apenas um jogador por vez envia um palpite.
 - Após cada palpite, o servidor retorna uma das seguintes respostas:
